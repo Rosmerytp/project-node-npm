@@ -14,7 +14,16 @@
   "author": "Rosmery Torres <rosmery.torres.10@gmail.com>",
   "license": "SEE LICENSE IN rosmery torres",
   "bin": {
-    "random-msg": "./bin/global.js"
+    "random-msg": "bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rosmerytp/project-node-npm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Rosmerytp/project-node-npm/issues"
+  },
+  "homepage": "https://github.com/Rosmerytp/project-node-npm#readme"
 }
+
